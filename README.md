@@ -30,7 +30,7 @@ de IDs para cada asset.
 
 ![baner](banner-osint-grupo-telegram-a-igreja-que-será-arrebatada.png)
 
-## BLOG POST
+## BLOG POST / teste
  - https://blog.mrcl0wn.com/osint-open-source-intelligence/osint-a-igreja-que-sera-arrebatada.html
 
  ## MIRO BOARD
